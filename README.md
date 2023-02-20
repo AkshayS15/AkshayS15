@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Salve</h1>
 <h3 align="center">Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkshayS15/AkshayS15](https://github.com/AkshayS15/AkshayS15)
 
-- 💬 Ask me about **SQL, Data Analytics, Data Visualization**
+- 💬 Ask me about **SQL, Data Analytics, Data Visualization, Machine Learning, NLP**
 
 - 📫 How to reach me **Salveakshay358@gmail.com**
 
